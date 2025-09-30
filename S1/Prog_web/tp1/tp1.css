@@ -1,0 +1,36 @@
+body{
+    font: 80% Verdana, sans-serif;
+    background-color: #EDE9E6;
+    color: #444444;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    margin: 1em auto 1em auto;
+    width: 80%;
+    border: 1px solid #C4C4C4;
+    background-color: white;
+    text-align: justify;
+}
+
+#contenu{
+    margin: 1em 1em 1em 1em;
+}
+
+table, td, tr{
+    border: black solid 1px;
+    border-collapse: collapse;
+}
+
+.reponse{
+    color: rgb(26, 25, 25);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(161, 158, 158, 0.748);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2{
+    color: #999966;
+}
